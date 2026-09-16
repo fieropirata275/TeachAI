@@ -1,3 +1,5 @@
+#TeachAI is an open-source AI tutor that explains any subject on a live interactive whiteboard using voice, vision, and local or cloud LLMs.
+
 # TeachAI
 Open-source AI tutor that teaches any subject using a live interactive whiteboard, voice, vision and local LLMs through LM Studio or DeepSeek.
 
